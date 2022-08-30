@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJ1FncwkDpdoEmZssRdnN0rR/gEMWvm4eT2awo1WO/Um9At+S+7zHD75KgSh9k2HnUz7Ey6xRwFYTHFQA+E3/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\braya\\Downloads\\arbolito\\arbolito\\arbol-ito.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
